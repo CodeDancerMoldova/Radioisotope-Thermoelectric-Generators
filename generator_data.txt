@@ -1,0 +1,15 @@
+The first floor contains a hydrogen-compatible microchip and a lithium-compatible microchip.
+The second floor contains a hydrogen generator.
+The third floor contains a lithium generator.
+The fourth floor contains nothing relevant.
+
+   /*  Generator promethiumGenerator = new Generator();
+        Generator cobaltGenerator = new Generator();
+        Generator curiumGenerator = new Generator();
+        Generator rutheniumGenerator = new Generator();
+        Generator plutoniumGenerator = new Generator();
+        Microchip promethiumMicrochip = new Microchip();
+        Microchip cobaltMicrochip = new Microchip();
+        Microchip curiumMicrochip = new Microchip();
+        Microchip rutheniumMicrochip = new Microchip();
+        Microchip plutoniumMicrochip = new Microchip();*/
